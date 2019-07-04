@@ -1,0 +1,29 @@
+.card {
+  border-top: 0px;
+}
+ul,
+li {
+  list-style-type: none;
+}
+li a {
+  text-decoration: none !important;
+  color: black;
+}
+li a :hover {
+  /* text-decoration: none; */
+  color: black;
+  font-weight: bold;
+}
+.categoryHeader {
+  color: #ee5f73;
+  font-size: 14px;
+  line-height: 25px;
+  font-weight: 500;
+  overflow: hidden;
+  font-weight: bold;
+}
+hr {
+  color: #eaeaec;
+  background-color: #eaeaec;
+  height: 5;
+}

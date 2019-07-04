@@ -1,0 +1,15 @@
+/* .desktop-categoryContainer {
+  display: none;
+}
+
+.category :hover + .desktop-categoryContainer {
+  display: block;
+} */
+.category {
+  /* background-color: green; */
+  padding-bottom: 28px;
+  border-bottom-color: #ee5f73;
+  padding-left: 17px;
+  padding-right: 17px;
+  border-bottom: 4px;
+}

@@ -1,0 +1,59 @@
+{
+  "Category": {
+    "ch": "类别"
+  },
+  "Location": {
+    "ch": "地点"
+  },
+  "Community": {
+    "ch": "社区"
+  },
+  "Cusine": {
+    "ch": "烹饪"
+  },
+  "Shop": {
+    "ch": "店"
+  },
+  "Profile": {
+    "ch": "轮廓"
+  },
+  "Wishlist": {
+    "ch": "收藏"
+  },
+  "Bag": {
+    "ch": "袋"
+  },
+  "Sweets": {
+    "ch": "糖果"
+  },
+  "Beverages": {
+    "ch": "饮料"
+  },
+  "Fruits and Vegetables": {
+    "ch": "轮廓"
+  },
+  "Bakery": {
+    "ch": "面包店"
+  },
+  "Spices": {
+    "ch": "香料"
+  },
+  "Food Grains": {
+    "ch": "食物谷物"
+  },
+  "Cooked Food": {
+    "ch": "轮廓"
+  },
+  "Raw and Fresh": {
+    "ch": "原料和新鲜"
+  },
+  "Organic": {
+    "ch": "有机"
+  },
+  "Accompaniments": {
+    "ch": "伴奏"
+  },
+  "Street Food": {
+    "ch": "街头食品"
+  }
+}
